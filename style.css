@@ -1,0 +1,37 @@
+body{
+    background-color: white;
+}
+h1{
+    color: #802828;
+}
+img{
+    width: 10%;
+    border-radius: 65%;
+}
+h2{
+    color: #44a163;
+}
+h3{
+    color: #44a163;
+}
+#py{
+    color: dodgerblue;
+}
+#ht{
+    color: orangered;
+}
+#css{
+   color: blue;
+}
+#jq{
+    color: brown;
+}
+#bt{
+    color: rgb(25, 25, 128);
+}
+p{
+    color: rgb(218, 178, 178);
+}
+a{
+    text-decoration: none;
+}
